@@ -1,3 +1,7 @@
+Medium article link:
+
+https://medium.com/@parrayhuzaif03/containerizing-a-multi-tier-application-with-docker-8f0fc4f70e22
+
 # Prerequisites
 ###
 - JDK 11 
